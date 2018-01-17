@@ -1,0 +1,9 @@
+.triangle {
+  
+    width: 0;
+height: 0;
+border-style: solid;
+border-width: 0px 100px 100px 100px;
+border-color: white blue black pink;
+background-image: 
+}
